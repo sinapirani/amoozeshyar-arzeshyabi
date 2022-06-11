@@ -4,4 +4,4 @@
 
 
 document.querySelectorAll('input[title=همیشه]').forEach(el => el.click())
-document.querySelector("#requestForm > span:nth-child(7) > input")
+document.querySelector("#requestForm > span:nth-child(7) > input").click()
