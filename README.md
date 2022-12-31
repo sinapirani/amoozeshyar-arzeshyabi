@@ -3,5 +3,5 @@
 توی تب console این کد رو paste کنین
 
 
-document.querySelectorAll('input[title=همیشه]').forEach(el => el.click())
+document.querySelectorAll('input[title=همیشه]').forEach(el => el.click());
 document.querySelector("#requestForm > span:nth-child(7) > input").click()
