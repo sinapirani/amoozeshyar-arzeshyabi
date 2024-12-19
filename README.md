@@ -3,5 +3,5 @@
 توی تب console این کد رو paste کنین
 
 
-document.querySelectorAll('input[title=خیلی خوب]').forEach(el => el.click());
+document.querySelectorAll('input[title='خیلی خوب']').forEach(el => el.click());
 document.querySelector("#requestForm > span:nth-child(7) > input").click()
